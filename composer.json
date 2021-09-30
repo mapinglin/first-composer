@@ -1,0 +1,15 @@
+{
+    "name": "administrator/first-composer",
+    "authors": [
+        {
+            "name": "mapinglin",
+            "email": "991149905@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "firstComposer\\": "src/"
+        }
+    },
+    "require": {}
+}
